@@ -1,0 +1,17 @@
+{
+    "name": "Goon3r/iceWeb",
+    "description": "iceBT Web Frontend",
+    "version": "0.0.1",
+    "type": "project",
+    "homepage": "https://github.com/Goon3r/iceWeb",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Goon3r",
+            "email": "iGoon3r@gmail.com",
+            "role": "Lead Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
